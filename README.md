@@ -1,2 +1,2 @@
-# curriculo-web
-criando um curriculo com html, css e js
+# projeto de site
+criando um site com html, css e js
